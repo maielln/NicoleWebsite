@@ -1,0 +1,70 @@
+@charset "UTF-8";
+ul {
+        font-family: "Bebas";
+        font-size: 30px;
+        text-align: center;
+        list-style-type: none;
+        margin: 0;
+        padding: 30px;
+        overflow: hidden;
+        max-height: 100px;
+        color: white;
+        background-color: #0ed4cb;
+}
+
+#name{
+        font-family: "batoshi";
+        text-align: center;
+        font-size: 80px;
+        padding-top: 20px;
+        background-color: #3884ce;
+        width:100%
+}
+
+#about{
+        font-family: "georgia";
+        text-align: left;
+        font-size: 30px;
+        left-margin: 20px;
+        padding-top:20px;
+        color: black;
+        width:100%
+}
+
+.column{
+        float: left;
+}
+
+.left{
+        width: 35%;
+}
+
+.right{
+        width: 65%;
+}
+
+li {
+        display: inline;
+        padding: 20px;
+}
+
+li a {
+        color: #264891;
+}
+
+body {
+        font-family: "georgia";
+        background-color: #dfd2c0;
+}
+
+img {
+        vertical-align: middle;
+        position: relative;
+        float: left;
+        width: 30%;
+        height: 40%;
+        margin-top: 20px;
+        border-width:5px;
+        border-style: outset;
+}
+
